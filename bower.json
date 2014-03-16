@@ -1,0 +1,19 @@
+{
+  "name": "vertical-rhytm",
+  "version": "0.0.1",
+  "homepage": "https://github.com/creaux/vertical-rhythm",
+  "authors": [
+    "Petr Juna <petr.juna@gmail.com>"
+  ],
+  "description": "Vertical rhythm package in less.",
+  "main": [
+      "init.less",
+      "staniol.json"
+  ],
+  "keywords": [
+    "less",
+    "staniol",
+    "css"
+  ],
+  "license": "MIT"
+}
